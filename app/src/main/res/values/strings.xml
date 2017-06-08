@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EmergencyMsg</string>
+    <string-array name="func">
+        <item>Fire</item>
+        <item>System crash</item>
+    </string-array>
 </resources>
